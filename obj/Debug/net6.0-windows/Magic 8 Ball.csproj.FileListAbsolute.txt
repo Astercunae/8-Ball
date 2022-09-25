@@ -1,0 +1,20 @@
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.csproj.AssemblyReference.cache
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.csproj.GenerateResource.cache
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.AssemblyInfoInputs.cache
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.AssemblyInfo.cs
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.csproj.CoreCompileInputs.cache
+C:\Users\Aster\Desktop\Magic 8 Ball\bin\Debug\net6.0-windows\Magic 8 Ball.exe
+C:\Users\Aster\Desktop\Magic 8 Ball\bin\Debug\net6.0-windows\Magic 8 Ball.deps.json
+C:\Users\Aster\Desktop\Magic 8 Ball\bin\Debug\net6.0-windows\Magic 8 Ball.runtimeconfig.json
+C:\Users\Aster\Desktop\Magic 8 Ball\bin\Debug\net6.0-windows\Magic 8 Ball.dll
+C:\Users\Aster\Desktop\Magic 8 Ball\bin\Debug\net6.0-windows\Magic 8 Ball.pdb
+C:\Users\Aster\Desktop\Magic 8 Ball\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.csproj.CopyComplete
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.dll
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\refint\Magic 8 Ball.dll
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.pdb
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic 8 Ball.genruntimeconfig.cache
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\ref\Magic 8 Ball.dll
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic_8_Ball.MagicEightBall.resources
+C:\Users\Aster\Desktop\Magic 8 Ball\obj\Debug\net6.0-windows\Magic_8_Ball.Properties.Resources.resources

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nPJqpqFzG0JgUoL6J3cmV/uLDmQqpxWufq0CnCAGalZVGVn3juD6d5atZZANnqr4scUidqLoPuGkoiz7s6NtqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aster\\Desktop\\Magic 8 Ball\\Magic 8 Ball.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aster\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
